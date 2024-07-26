@@ -1,0 +1,212 @@
+body{  
+    padding: 0px;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav{
+    position: absolute;
+    top: 90px;
+    
+}
+h1{
+    color: burlywood;
+    font-size: xx-large;
+    position: absolute;
+    top: 0px;
+    padding-left: 690px;
+}
+p{
+    position: absolute;
+    top: 60px;
+    left: 650px;
+}
+h2{
+    position: absolute;
+    left: 23px;
+    color: rgb(176, 236, 86);
+}
+h3{
+    color: rgb(231, 172, 64);
+}
+tr2{
+    padding-left: 140px;
+}
+tr3{
+    padding-left: 70px;
+}
+tr4{
+    padding-left: 70px;
+}
+h4{
+    color: burlywood;
+}
+tr1{
+    padding-left: 23px;
+}
+tr5{
+    padding-left: 40px;
+}
+tr9{
+    padding-left: 100px;
+}
+tr10{
+    padding-left: 23px;
+}
+tr11{
+    padding-left: 185px;
+}
+tr12{
+    padding-left: 80px;
+}
+tr13{
+    padding-left: 20px;
+}
+tr14{
+    padding-left: 95px;
+}
+tr15{
+    padding-left: 90px;
+}
+tr16{
+    padding-left: 77px;
+}
+tr17{
+    padding-left: 95px;
+}
+tr18{
+    padding-left: 90px;
+}
+tr19{
+    padding-left: 30px;
+}
+tr20{
+    padding-left: 95px;
+}
+tr21{
+    padding-left: 90px;
+}
+tr22{
+    padding-left: 50px;
+}
+tr23{
+    padding-left: 95px;
+}
+tr24{
+    padding-left: 91px;
+}
+tr25{
+    padding-left: 24px;
+}
+tr26{
+    padding-left: 270px;
+}
+tr27{
+    padding-left: 23px;
+}
+tr28{
+    padding-left: 147px;
+}
+tr29{
+    padding-left: 100px;
+}
+tr30{
+    padding-left: 135px;
+}
+tr31{
+    padding-left: 100px;
+}
+tr32{
+    padding-left: 147px;
+}
+tr33{
+    padding-left: 23px;
+}
+tr34{
+    padding-left: 224px;
+}
+tr35{
+    padding-left: 181px;
+}
+tr36{
+    padding-left: 185px;
+}
+h{
+    color: rgb(176, 236, 86);
+    font-weight: 600;
+    font-size:x-large;   
+    position: absolute;
+    top: 120px;
+    left: 850px;
+}
+tr37{
+    padding-left: 150px;
+    font-size: large;
+}
+tr38{
+    padding-left: 90px;
+    font-size: large;
+}
+tr39{
+    padding-left: 90px;
+    font-size: large;
+}
+tr40{
+    padding-left: 150px;
+    font-size: large;
+}
+tr41{
+    padding-left: 175px;
+    font-size: large;
+}
+tr42{
+    font-size: large;
+}
+tr43{
+    padding-left: 69px;
+    font-size: large;
+}
+tr44{
+    font-size: large;
+    padding-left: 110px;
+}
+tr45{
+    font-size: large;
+    padding-left: 110px;
+}
+tr46{
+    font-size: large;
+}
+tr47{
+    font-size: large;
+    padding-left: 33px;
+}
+tr48{
+    font-size: large;
+    padding-left: 110px;
+}
+tr49{
+    font-size: large;
+    padding-left: 45px;
+}
+tr50{
+    font-size: large;
+    padding-left: 110px;
+}
+tr51{
+    font-size: large;
+    padding-left: 110px;
+}
+tr52{
+    font-size: large;
+    padding-left: 230px;
+}
+tr53{
+    font-size: large;
+    padding-left: 110px;
+}
+h5{
+    font-size: larger;
+}
+h4{
+    font-size: medium;
+}

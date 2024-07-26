@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="/css/order.css" />
+  </head>
+  <body>
+    <div style="display: flex; justify-content: center; align-items: center">
+      <h2 style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">𝙋𝙇𝘼𝘾𝙀 𝙔𝙊𝙐𝙍 𝙊𝙍𝘿𝙀𝙍 𝙉𝙊𝙒...⛟</h2>
+    </div>
+    <div class="container">
+      <form>
+        <div class="row">
+          <div class="col-25">
+            <label for="fname">First Name</label>
+          </div>
+
+          <div class="col-75">
+            <input
+              type="text"
+              id="fname"
+              name="firstname"
+              placeholder="Your name.."
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-25">
+            <label for="lname">Last Name</label>
+          </div>
+
+          <div class="col-75">
+            <input
+              type="text"
+              id="lname"
+              name="lastname"
+              placeholder="Your last name.."
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-25">
+            <label for="email">Phone no.</label>
+          </div>
+
+          <div class="col-75">
+            <input
+              type="email"
+              id="email"
+              name="mailid"
+              placeholder="Your phone no."
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-25">
+            <label for="country">Drink items</label>
+          </div>
+
+          <div class="col-75">
+            <select id="country" name="country">
+              <option value="none">Select Drink</option>
+
+              <option value="Espresso">Espresso</option>
+
+              <option value="Mocha">Mocha</option>
+
+              <option value="Americano">Americano</option>
+
+              <option value="Cappucino">Cappucino</option>
+
+              <option value="frappe">Vanilla Frappe</option>
+
+              <option value="chocolate">Hot Chocolate</option>
+
+              <option value="motacha">Matcha Latte</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-25">
+            <label for="feed_back">Address</label>
+          </div>
+
+          <div class="col-75">
+            <textarea
+              id="subject"
+              name="subject"
+              placeholder="Write your complete address..."
+              style="height: 200px"
+            ></textarea>
+          </div>
+        </div>
+
+        <div class="row">
+          <input type="submit" value="Order now" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
